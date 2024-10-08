@@ -1,0 +1,57 @@
+Engineering Executive Areas:-
+
+What will success look like for my role?
+  - 
+  - 
+
+Figure out if something is really wrong and needs immediate attention.
+- Optimization & Automation
+- Cloud PC roll-outs
+
+Learning & Building trust
+- Listening tour
+- Meetings & shadowing
+- Forums
+- Business analytics & data: where & how to get
+
+External support system
+- of people in similar roles
+- an executive coach
+
+Understanding Organization health and process
+- document existing processes
+- implement at most 1-2 changes
+- growth for next year
+- communication pathways
+- attention to work beyond product engineering roles
+    - TPM, SRE, Operations, Finance, etc
+
+Understanding Hiring
+- track funnel metrics and hiring pipeline
+- is overhaul required
+- key missing roles
+- Offer to close priority candidates
+- Engineering brand efforts
+
+Understanding systems of Execution
+- what's happening now is working and will scale?
+- internal measures of Engineering velocity
+- external measures of Engineering velocity
+- small changes to process & controls
+
+Understand the Technology
+- existing tech is effective
+- how are high-risk tech decision made
+- build a trivial change & deploy it
+- attend incident reviews
+- record technology history
+- document existing tech strategy
+
+Engineering Strategy:-
+Diagnosis - nature of challenge
+Guiding policies - approaches to apply to tackle the challenge
+Coherent actions - specific actions + guiding policies to address the challenge
+(reason most written strategies don't apply is that they're actually visions of how things could ideally work,
+rather than accurate descriptions of how things work today)
+
+
